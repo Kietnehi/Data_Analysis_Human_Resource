@@ -35,7 +35,6 @@ Dưới đây là một số hình ảnh sau khi training:
 1. Clone dự án về máy tính của bạn:
    ```bash
    git clone [https://github.com/your-username/project-name.git](https://github.com/Kietnehi/Data_Analysis_Human_Resource.git)
-   cd project-name
 2.Cài đặt các thư viện cần thiết từ file requirements.txt:
   ```bash
   pip install -r requirements.txt
